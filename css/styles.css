@@ -31,3 +31,6 @@ footer a:hover {
 .carousel-caption {
 	font-family: 'Cinzel', serif;
 }
+.btn {
+	border:none;
+}
