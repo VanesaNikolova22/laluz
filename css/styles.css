@@ -34,3 +34,9 @@ footer a:hover {
 .btn {
 	border:none;
 }
+.myaln {
+    height: 500px;
+    width: 100%;
+    background-size: contain;
+    background-repeat: repeat-x;
+}
