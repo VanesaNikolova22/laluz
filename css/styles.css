@@ -34,8 +34,4 @@ footer a:hover {
 .btn {
 	border:none;
 }
-.cover {
-  object-fit: cover;
-  width: 100%;
-  height: 500px;
-}
+
