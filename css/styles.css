@@ -2,13 +2,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 /* Changing the main font and background colour */
 
 body {
 	font-family: Raleway, sans-serif;
-	background-color: #FFFFFF;
+	background-color: #fffcf8;
 }
 
 /* Changing the background colour for the header */
@@ -38,15 +37,5 @@ footer a:hover {
 }
 
 .values-section {
-margin-top: 120px;
+margin-top: 100px;
 }
-.fnt-Cinzel {
-	font-family: Cinzel;
-}
-.img-values {
-	margin-bottom: 40px;
-}
-.fnt-Poppins {
-	font-family:'Poppins', sans-serif;
-}
-	
