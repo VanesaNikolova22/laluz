@@ -33,7 +33,10 @@ footer a:hover {
 }
 .container-fluid {
 	height: 500;
+	background-color: black;
 }
+
 .values-section {
 margin-top: 100px;
 }
+
