@@ -76,3 +76,22 @@ transition-duration: 0.4s;
   background-color: #000000; 
   color:#FFFFFF;
 }
+
+.space-vision {
+	padding-right: 300px;
+	padding-left: 300px;
+}
+.space-team {
+	padding-right: 300px;
+	padding-left: 300px;
+	padding-bottom: 50px;
+}
+.zoom {
+  
+  transition: transform .2s; /* Animation */
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
